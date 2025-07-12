@@ -44,6 +44,6 @@ employee-directory/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/employee-directory.git
+   git clone [https://github.com/your-username/employee-directory.git](https://github.com/nakul139/Employee_Directory.git)
    cd employee-directory
    ```
